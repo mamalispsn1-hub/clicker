@@ -1,4 +1,0 @@
--keep class com.autoclicker.pro.data.model.** { *; }
--keepattributes *Annotation*
--keepclassmembers class kotlinx.serialization.** { *; }
--dontwarn kotlinx.serialization.**

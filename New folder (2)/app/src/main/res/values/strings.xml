@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Auto Clicker Pro</string>
-    <string name="accessibility_service_label">Auto Clicker Pro Tap Service</string>
-    <string name="accessibility_service_description">Allows Auto Clicker Pro to perform taps that you configure at chosen screen coordinates. No screen content is read.</string>
-    <string name="notification_channel_name">Auto Clicker Status</string>
-    <string name="notification_active_title">Auto Clicker Active</string>
-    <string name="notification_paused_title">Auto Clicker Paused</string>
-</resources>
